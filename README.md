@@ -4,9 +4,11 @@
 
 **I'm great at building MVPs**. Lately I've been focusing on Cloud Native, Microservices & Serverless to build high scalability, performance & availability distributed systems.
 
-**I write code & read books in my free time**. Check my GitHub [/phatpham9](https://github.com/phatpham9) for open source projects.
+**I write code & read books in my free time**. Check [github.com/phatpham9](https://github.com/phatpham9), [/boringcodes](https://github.com/boringcodes) & [/gorillab](https://github.com/gorillab) for my open source projects.
 
 **Currently I'm working at my own startup**, studying M.S. in Computer Science (major in AI) & coding for fun at [/boringcodes](https://github.com/boringcodes).
+
+Find out more about me at my personal website [onroads.xyz](https://onroads.xyz)
 
 <!--
 **phatpham9/phatpham9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
