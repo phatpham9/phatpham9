@@ -4,11 +4,11 @@
 
 **I'm great at building MVPs**. Lately I've been focusing on Cloud Native, Microservices & Serverless to build performance, scalable & highly available distributed systems.
 
-**Currently I'm taking a break after my own startup failed**.
+**Currently I'm taking a break after my own startup failed**. Relaxing & finding what I'm interested in.
 
-**I write code & read books in my free time**, check [/boringcodes](https://github.com/boringcodes) for what I'm writing for fun.
+**I write code & read books in my free time**. Check [/boringcodes](https://github.com/boringcodes) for what I'm writing for fun.
 
-**I'm also studying M.S. in Computer Science, major in Artificial Intelligent** on the weekend.
+**I'm also studying M.S. in Computer Science**, major in Artificial Intelligent on the weekend.
 
 <!--
 **phatpham9/phatpham9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
