@@ -4,9 +4,9 @@
 
 **I'm great at building MVPs**. Lately I've been focusing on Cloud Native, Microservices & Serverless to build performance, scalable & highly available distributed systems.
 
-**I write code & read books in my free time**. Check [github.com/phatpham9](https://github.com/phatpham9) for my open source projects.
+**Currently I'm taking a break after my own startup failed**.
 
-**Currently I'm taking a break after my own startup failed** but I still write code for fun in my free-time (check [/boringcodes](https://github.com/boringcodes)). And I'm also studying M.S. in Computer Science on the weekend.
+**I write code & read books in my free time**, check [github.com/phatpham9](https://github.com/phatpham9) for my open source projects. I'm also studying M.S. in Computer Science on the weekend.
 
 Find out more about me at my personal website [onroads.xyz](https://onroads.xyz)
 
