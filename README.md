@@ -6,7 +6,7 @@ I am good at building MVPs. Lately I've been focusing on Cloud Native, Microserv
 
 I currently work at [Setel](https://setel.com). Leading a team to build eKYC & fraud monitoring for Setel ecosystem.
 
-I also maintain [/boringcodes](https://github.com/boringcodes) in my freetime. A set of tools that makes developers life easier.
+I also maintain [github.com/boringcodes](https://github.com/boringcodes) in my freetime. A set of tools that makes developers life easier.
 
 ### Stats
 
