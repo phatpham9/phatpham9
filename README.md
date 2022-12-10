@@ -4,7 +4,7 @@ A lifelong learner, tech enthusiast & open source lover from Vietnam.
 
 I am good at building MVPs. Lately I've been focusing on Cloud Native, Microservices & Serverless to build reactive systems.
 
-I currently work at [Setel](https://setel.com). I'm leading a team to build eKYC & fraud monitoring for Setel ecosystem.
+I currently work at [Setel](https://setel.com). Leading a team to build eKYC & fraud monitoring for Setel ecosystem.
 
 I also maintain [/boringcodes](https://github.com/boringcodes) in my freetime. A set of tools that makes developers life easier.
 
