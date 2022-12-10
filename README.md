@@ -1,7 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Phat Pham 👋
 
-**I'm Phat Pham**, a lifelong learner, tech enthusiast & open source lover from Ho Chi Minh Vietnam.
+A lifelong learner, tech enthusiast & open source lover from Vietnam.
 
-**I'm great at building MVPs**. Lately I've been focusing on Cloud Native, Microservices & Serverless to build performance, scalable & highly available distributed systems.
+I am good at building MVPs. Lately I've been focusing on Cloud Native, Microservices & Serverless to build reactive systems.
 
-**I write code & read books in my free time**. Check [/boringcodes](https://github.com/boringcodes) for what I've been writing for fun.
+I currently work at [Setel](https://setel.com). I'm leading a team to build eKYC & fraud monitoring for Setel ecosystem.
+
+I also maintain [/boringcodes](https://github.com/boringcodes) in my freetime. A set of tools that makes developers life easier.
+
+### Stats
+
+[![Phat Pham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phatpham9&theme=dark)](https://github.com/phatpham9)
