@@ -10,4 +10,4 @@ I am good at building MVPs. Lately I've been focusing on Cloud Native, Microserv
 
 I also maintain [github.com/boringcodes](https://github.com/boringcodes) in my freetime, a set of tools that makes developers life easier.
 
-[![Phat Pham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phatpham9&theme=dark)](https://github.com/phatpham9)
+[![Phat Pham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phatpham9&theme=transparent&show_icons=true)](https://github.com/phatpham9)
